@@ -1,2 +1,2 @@
-# Next-Frame-Video-Prediction
-A comparitive analysis of next-frame video prediction using LSTM, PredRNN and Transformer models.
+## Next-Frame Video Prediction using Deep Learning
+This project implements next-frame video prediction using LSTM, ConvLSTM, PredRNN, and Transformer-based models to forecast the next frame in a video sequence. The models are compared based on accuracy, computational efficiency, and temporal consistency.
